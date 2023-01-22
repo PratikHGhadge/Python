@@ -1,0 +1,8 @@
+s=set()
+#print(type(s))
+#As_from_list = set([1,5,8,9,6])
+#print(s_from_list)
+#print(type(s_from_list))
+#s.add(5)
+#s.add(5)
+print(s)

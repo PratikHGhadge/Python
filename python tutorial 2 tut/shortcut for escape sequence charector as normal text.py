@@ -1,0 +1,1 @@
+print(r"this is \n new line escape sequence charector") # attach r first
